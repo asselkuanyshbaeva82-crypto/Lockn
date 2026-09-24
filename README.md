@@ -31,31 +31,6 @@ Instead of using separate applications for planning, timers, task management, an
 * **Authentication:** [Your authentication technology]
 * **Version Control:** Git & GitHub
 
-##  Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Lockn.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd Lockn
-```
-
-### 3. Install dependencies
-
-```bash
-[add installation command]
-```
-
-### 4. Run the application
-
-```bash
-[add run command]
-```
 
 ##  Main Concept
 
