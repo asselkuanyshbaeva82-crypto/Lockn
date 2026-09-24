@@ -21,7 +21,7 @@ The main goal of YTP is to make studying **more structured, engaging, and motiva
 
 Instead of using separate applications for planning, timers, task management, and study groups, students can manage everything in one platform.
 
-## 🛠️ Technologies
+##  Technologies
 
 > Update this section according to the technologies used in your project.
 
