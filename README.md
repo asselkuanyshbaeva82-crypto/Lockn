@@ -17,7 +17,7 @@ Lockn is a student productivity platform designed to help students **stay focuse
 
 ## Goal
 
-The main goal of YTP is to make studying **more structured, engaging, and motivating**.
+The main goal of Lockn is to make studying **more structured, engaging, and motivating**.
 
 Instead of using separate applications for planning, timers, task management, and study groups, students can manage everything in one platform.
 
@@ -25,11 +25,11 @@ Instead of using separate applications for planning, timers, task management, an
 
 > Update this section according to the technologies used in your project.
 
-* **Frontend:** [Your technology]
-* **Backend:** [Your technology]
-* **Database:** [Your database]
-* **Authentication:** [Your authentication technology]
-* **Version Control:** Git & GitHub
+* **Frontend:** [HTML,Figma]
+* **Backend:** [Java]
+* **Database:** [SQL]
+* **Authentication:** [..]
+* **Version Control:** GitHub
 
 
 ##  Main Concept
